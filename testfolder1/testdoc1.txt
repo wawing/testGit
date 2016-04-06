@@ -1,0 +1,5 @@
+this is test doc 1 under folder1
+
+line a
+line b
+line c
